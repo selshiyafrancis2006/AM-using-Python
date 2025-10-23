@@ -41,25 +41,8 @@ Compare Signals Compare the original modulating signal with the demodulated sign
 
 Program:
 
-import numpy as np
-import matplotlib.pyplot as plt
-Am = 3.8
-Ac = 7.6
-fm = 307
-fc = 3070
-fs = 30700
-t = np.arange(0, 2/fm, 1/fs)
-m = Am * np.cos(2 * np.pi * fm * t)
-plt.subplot(3, 1, 1)
-plt.plot(t, m)
-c = Ac * np.cos(2 * np.pi * fc * t)
-plt.subplot(3, 1, 2)
-plt.plot(t, c)
-s = (Ac + m) * np.cos(2 * np.pi * fc * t)
-plt.subplot(3, 1, 3)
-plt.plot(t, s)
-plt.tight_layout()
-plt.show()
+<img width="441" height="463" alt="image" src="https://github.com/user-attachments/assets/2221681e-3649-4caa-bb81-e6857c88dcfe" />
+
 Output Waveform: 
 
 TABULATION: <img width="838" height="594" alt="image" src="https://github.com/user-attachments/assets/a186f38a-c418-4f44-b113-8d377c4ef78c" />

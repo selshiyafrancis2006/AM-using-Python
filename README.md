@@ -1,4 +1,5 @@
-#Amplitude-Modulation using python
+<h1>Amplitude-Modulation using python</h1>
+
 EXP NO: 1 GENERATION AND DETECTION OF AM using python.
 
 AIM:

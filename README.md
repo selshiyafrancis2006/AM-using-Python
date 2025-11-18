@@ -48,7 +48,7 @@ Output Waveform:
 TABULATION: <img width="838" height="594" alt="image" src="https://github.com/user-attachments/assets/a186f38a-c418-4f44-b113-8d377c4ef78c" />
 
 
-Calculation: <img width="1518" height="943" alt="image" src="https://github.com/user-attachments/assets/614ce00d-9d5f-4cc7-9f5d-9e6ebe04db1f" />
+Calculation: <img width="1474" height="902" alt="image" src="https://github.com/user-attachments/assets/cd8cbc8b-27af-4c22-bbe5-2d04bac4579b" />
 
 
 ma (Theory) = am/ac =0.5

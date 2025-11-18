@@ -45,10 +45,17 @@ Program:
 
 Output Waveform: 
 
-TABULATION: <img width="838" height="594" alt="image" src="https://github.com/user-attachments/assets/a186f38a-c418-4f44-b113-8d377c4ef78c" />
+<img width="838" height="594" alt="image" src="https://github.com/user-attachments/assets/a186f38a-c418-4f44-b113-8d377c4ef78c" />
+
+TABULATION: 
+
+<img width="1528" height="932" alt="image" src="https://github.com/user-attachments/assets/0e8e7dc1-3ab2-40dc-b5f7-a51b2f302105" />
 
 
-Calculation: <img width="1528" height="932" alt="image" src="https://github.com/user-attachments/assets/4764b6aa-b421-421a-812c-a69591dd7f09" />
+Calculation: 
+
+<img width="1705" height="600" alt="image" src="https://github.com/user-attachments/assets/1e6403e3-9738-4683-a1d8-67a0b62b93e9" />
+
 
 
 ma (Theory) = am/ac =0.5
